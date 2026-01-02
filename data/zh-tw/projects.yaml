@@ -9,21 +9,39 @@ section:
   # hideTitle: true
 
 buttons:
-- name: All
+- name: 全部
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
+- name: 金融
+  filter: "financial"
+- name: 學術  
   filter: "academic"
-- name: Hobby
+- name: 興趣
   filter: "hobby"
 
+
 projects:
-- name: Kubernetes
-  logo: images/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes
+- name: 交易輔助機器人
+  logo: images/projects/trading-assistant-bot.png
+  role: 個人專案 
+  # timeline: "March 2018 - Present"
+  # repo:
+
   # url: ""
-  summary: Production-Grade Container Scheduling and Management .
-  tags: ["professional", "kubernetes", "cloud"]
+  summary: 利用十年歷史資料與深度學習技術，開發一套能夠自動化在台股市場進行日內交易的交易輔助機器人。
+  tags: ["financial", "Python"] 
+- name: 勞動基準法修正案對勞動時數與薪資之影響
+  role: 學術研究
+  # timeline: "March 2018 - Present"
+  # repo:
+  summary: 運用差異中差異法(Difference-in-Differences)，利用2011年至2020年行政院主計總處之人力運用調查資料，估計該政策對每週正常工作時數及每月平均薪資之短期影響。
+  tags: ["economics", "STATA"]  
+
+- name: 殺人案件量刑期預測
+  summary: 處理數千份與殺人及過失致死相關的判決文件，根據量刑、裁判結果、常見犯罪手法、量刑因素及犯案者特徵等特徵，預測量刑期。
+  tags: ["law", "NLP"]  
+
+- name: 台灣房市與人口移動
+  summary: 採用結構向量自我迴歸模型(Structural Vector Autoregression Model, SVAR)，分析2001年第1季至2021年第3季台灣七大都會區人口移動流量與房價之間的關係，並分解不同變數對房價變動的影響。
+  tags: ["economics", "STATA"]
+
+
