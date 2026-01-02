@@ -11,12 +11,10 @@ title: "Charlie's Blog"
 languages:
   en:
     languageCode: en
-    title: "English"
     languageName: English
     weight: 1
   cn:
-    languageCode: zh-tw
-    title: "中文"
+    languageCode: cn
     languageName: Chinese 
     weight: 2
 

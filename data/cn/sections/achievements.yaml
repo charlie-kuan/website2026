@@ -1,0 +1,34 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: false
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+achievements:
+- title: 國立臺灣大學天文社社長
+  # image: images/sections/achievements/presenter.jpg
+  summary: 領導團隊運作，管理超過100名成員的社團。學習天文學、天文攝影及一般天文知識。組織並帶領多次觀測活動，培養協調與領導能力。
+  url: https://www.facebook.com/ntuast/
+
+- title: Google數位人才探索計畫
+  # image: images/sections/achievements/google-digital-talent.jpg
+  summary: 完成Google數位人才探索計畫，深入了解Google雲端運算基礎知識。 
+
+- title: 程式設計與優化競賽
+  # image: images/sections/achievements/competition.jpg
+  summary: 參加由國立臺灣大學資訊管理系舉辦 的競賽，提升C++實作能力並獲得競賽經驗。   
+
+- title: 多益金色證書
+  # image: images/sections/achievements/toeic.jpg
+  summary: 在多益考試中取得945分。
+
+- title: 綠能產業金融人才培育計畫 （資策會科技法律研究所）
+  # image: images/sections/achievements/green-energy.jpg
+  summary: 完成由資策會科技法律研究所舉辦的綠能產業金融人才培育計畫。
+- title: 生物多樣性導論課程天文助教
+  # image: images/sections/achievements/teaching-assistant.jpg
+  summary: 擔任生物多樣性導論課程的天文助教，負責講授天文相關的主題。 
