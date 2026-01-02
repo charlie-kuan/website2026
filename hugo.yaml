@@ -43,10 +43,13 @@ enableEmoji: false
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/charlie-kuan/website2026
-
+  background: "images/ESKP7404.JPG"
   features:
     # Enable portfolio section
     portfolio:
+      enable: true
+
+    darkMode:
       enable: true
 
     # Enable blog posts
@@ -82,3 +85,5 @@ params:
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
       enable: true
+
+  
