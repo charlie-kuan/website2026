@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: financial
+  filter: "financial"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+projects:
+- name: Trading Assistant Bot
+  logo: images/projects/trading-assistant-bot.png
+  role: Side Project 
+  # timeline: "March 2018 - Present"
+  # repo: https://github.com/kubernetes/kubernetes
+  # url: ""
+  summary: Implemented a trading assistant bot using 10 years datas and deep learning to automate trading at taiwan market daily.
+  tags: ["financial", "Python"]
+
+- name: Impact of the amendment to the Labor Standards Act on Labor Hours and Wages
+  role: Academic Research
+  # timeline: "March 2018 - Present"
+  # repo:
+  summary: Used the Difference-in-Differences method to estimate the short-term impact of the policy on weekly regular working hours and monthly average wages using manpower utilization survey data from the Directorate-General of Budget, Accounting and Statistics from 2011 to 2020.
+  tags: ["economics", "STATA"]
+
+- name: Prediction of Sentencing Terms for Homicide Cases
+  summary: Processed thousands of judgment documents related to homicide and negligent homicide to predict sentencing terms based on features such as sentence, sentencing result, common criminal methods, sentencing factors, and characteristics of the perpetrators.  
+  tags: ["law", "NLP"]
+
+- name: Housing Market and Migration in Taiwan
+  summary:  Applied a structural vector autoregression model (SVAR) to analyze the relationship between migration flows and house prices in seven major cities in Taiwan from Q1 2001 to Q3 2021, decomposing the impact of different variables on housing price changes.
+  tags: ["economics", "STATA"]
+

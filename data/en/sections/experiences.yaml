@@ -1,0 +1,68 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: QBit Semiconductor, Ltd.
+    url: "https://www.qbitsemi.com"
+    location: Taipei, Taiwan
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview:  
+  positions:
+  - designation: Associate Manager
+    start: Jul 2024 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - "Contract Drafting and Review: Drafted and reviewed a variety of agreements, including NDAs, chip development contracts, software and IP licensing agreements, and general administrative contracts."
+    - "Regulatory Compliance & Stock Affairs: Ensured compliance with business and investment laws; coordinated board/shareholder meetings; handled company registration and regulatory filings."
+    - "International Tax Strategy: Conducted cross-border tax research to optimize global chip IP procurement costs through legal tax reduction and avoidance strategies."
+    - "Export Control & Trade Compliance: Analyzed global import/export regulations to ensure compliance in chip development and international sales operations."
+    - "Overseas Subsidiary Establishment (Japan & U.S.): Managed legal and operational aspects including taxation, payroll, 401(k), insurance, and H-1B visa applications for international teams."
+    - "Chip Development Project Coordination: Supported next-generation chip projects from planning to procurement; led government subsidy program applications and reporting."
+    - "Contributed to pre-IPO planning: Developed ESOPs, stock trust structures, investor onboarding, and OTC listing preparations."
+    - "Business Dispute Resolution & External Negotiations: Led resolution of commercial disputes and strategic negotiations with external parties."
+
+
+  - designation: Administrator
+    start: Jun 2023
+    end: Jun 2024
+    responsibilities:
+
+- company: 
+    name: Financial Information Center, Ministry of Finance
+    url: "https://www.fic.gov.tw"
+    location: Taipei, Taiwan
+    # logo: /images/experiences/company2.png
+    # darkLogo: /images/experiences/company2-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview:  
+  positions:
+  - designation: Research Assistant
+    start: Jun 2022
+    end: Dec 2022
+    responsibilities:
+    - "Analyzed individual and corporate income tax records, customs import and export data, labor insurance data at the Financial Information Center, Ministry of Finance, to assess the impact of the US-China trade war on Taiwan’s SMEs export business."     
+  
+- company: 
+    name: Chung-Hua Institution for Economic Research
+    url: "https://www.cier.edu.tw"
+    location: Taipei, Taiwan
+    overview:  
+  positions:
+  - designation: Project Assistant
+    start: Jun 2021
+    end: Dec 2021
+    responsibilities:
+    - "Worked in the International Economics Institute"
+    - "Assisted in research related to irrational investor behavior."
+    - "Collected and analyzed macroeconomic indicators data, prepared materials for monthly economic outlook press conferences."

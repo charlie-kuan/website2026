@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+skills:
+- name: Python and C++
+  # logo: /images/sections/skills/python.png
+  summary: "Using Python for data analysis, deep learning, automotive trading, and web development. Familiar with libraries such as Pandas, NumPy, and Flask."
+  url: "https://www.python.org/"
+
+- name: Econometrics 
+  # logo: /images/sections/skills/econometrics.png
+  summary: "Proficient in econometric modeling and analysis, including regression analysis, time series analysis, and panel data analysis. Experienced in using software such as Stata and R for econometric analysis."
+ 
+- name: Financial Analysis
+  # logo: /images/sections/skills/financial-analysis.png
+  summary: "Skilled in financial statement analysis, ratio analysis, and investment analysis. Preparing for CFA exam currently"
+
+- name: Legal Contract Review
+  # logo: /images/sections/skills/legal-contract-review.png
+  summary: "Experienced in reviewing and drafting various types of legal contracts, including NDAs, service agreements, and employment contracts. Familiar with key legal concepts and clauses."  
+
+- name: Business and Tax law
+  # logo: /images/sections/skills/business-and-tax-law.png
+  summary: "Knowledgeable in business and tax law, including corporate governance, compliance, and tax regulations. Able to provide legal advice on business operations and tax planning."
+
+- name: IPO and fund raising 
+  # logo: /images/sections/skills/ipo-and-fund-raising.png
+  summary: "Familiar with the IPO process and fund raising strategies. Experienced in preparing necessary documentation and liaising with regulatory bodies."

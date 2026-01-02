@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+achievements:
+- title: President, Astronomy Club, National Taiwan University
+  # image: images/sections/achievements/presenter.jpg
+  summary: Led team operations, managing a club of over 100 members. Studied astronomy, astrophotography, general astronomy knowledge. Organized and led multiple observation events, learning coordination and leadership skills.
+  url: https://www.facebook.com/ntuast/
+
+- title: Google Digital Talent Exploration Program
+  # image: images/sections/achievements/google-digital-talent.jpg
+  summary: Completed the Google Digital Talent Exploration Program, gaining insights into Google Cloud Computing Foundations.
+
+- title: Programming Design and Optimization Competition
+  # image: images/sections/achievements/competition.jpg
+  summary: Participated in a competition organized by the Department of Information Management at NTU, enhancing C++ implementation skills and gaining competition experience.
+
+- title: TOEIC Certification
+  # image: images/sections/achievements/toeic.jpg
+  summary: Achieved a score of 945 in the TOEIC exam, demonstrating strong English
+
+- title: Green Energy Industry Financial Talent Development Program, Institute for Information Industry, Technology Law Institute
+  # image: images/sections/achievements/green-energy.jpg
+  summary: Completed a program focused on financial talent development in the green energy industry, organized by the Institute for Information Industry's Technology Law Institute.
+
+- title: Astronomy Teaching Assistant for the Introduction to Biodiversity course
+  # image: images/sections/achievements/teaching-assistant.jpg
+  summary: Served as a teaching assistant for the Introduction to Biodiversity course, assisting in astronomy-related topics and supporting students' learning experiences.
