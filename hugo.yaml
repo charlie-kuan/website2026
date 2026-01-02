@@ -8,15 +8,19 @@ baseURL: https://home.charlie-cheng.cc
 languageCode: en-us
 title: "Charlie's Blog"
 
-
 languages:
   en:
+    languageCode: en
+    title: "English"
     languageName: English
     weight: 1
-  zh-tw:
-    languageName: Mandarin  
+  zh:
+    languageCode: zh
+    title: "中文"
+    languageName: 中文  
     weight: 2
 
+defaultContentLanguage: en
   
 # Allow raw html in markdown file
 markup:

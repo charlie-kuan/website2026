@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+skills:
+- name: Python 和 C++
+  # logo: /images/sections/skills/python.png
+  summary: "使用 Python 進行數據分析、深度學習、自動化交易和網頁開發。熟悉 Pandas、NumPy 和 Flask 等。"
+  url: "https://www.python.org/"
+
+- name: 計量經濟學
+  # logo: /images/sections/skills/econometrics.png
+  summary: "精通計量經濟模型建立和分析，包括回歸分析、時間序列分析和橫斷數據分析。熟練使用 Stata 和 R 等軟體進行計量經濟分析。" 
+
+- name: 財務分析
+  # logo: /images/sections/skills/financial-analysis.png
+  summary: "擅長財務和投資分析。目前正在準備 CFA 考試。"  
+
+- name: 法律合同審查
+  # logo: /images/sections/skills/legal-contract-review.png
+  summary: "具有審查和草擬各類法律合同的經驗，包括保密協議、開發服務協議、軟體授權協議、股權交易協議和矽智財授權協議。熟悉關鍵法律概念和條款。"   
+
+- name: 商業與稅法 
+  # logo: /images/sections/skills/business-and-tax-law.png
+  summary: "熟悉商業和稅法，包括公司治理、合規和稅收法規。能夠就商業運營和稅務規劃提供法律建議。"
+
+- name: IPO 和募資 
+  # logo: /images/sections/skills/ipo-and-fund-raising.png
+  summary: "熟悉 IPO 流程和募資策略。具有準備必要文件和與主管單位協調的經驗。"  

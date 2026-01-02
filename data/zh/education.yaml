@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+degrees:
+- name: 經濟學士
+  icon: fa-microscope
+  timeframe: 2019 - 2023
+  institution:
+    name: 國立臺灣大學
+    url: "www.ntu.edu.tw"
+    # logo: /images/education/college.png # Path of the logo image
+    # darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  # grade: #(optional)
+  # scale: GPA
+  # achieved: 3.6
+  # outOf: 
+  

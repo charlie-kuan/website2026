@@ -1,0 +1,66 @@
+section:
+  name: Experiences # Titre de la section (par défaut: "" )
+  id: experiences # url id/slug of section *Required*
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+experiences:
+- company:
+    name: 通寶半導體設計股份有限公司
+    url: "https://www.qbitsemi.com"
+    location: 台灣台北
+    # logo: /images/experiences/company.png
+    # darkLogo: /images/experiences/company-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview:  
+  positions:
+  - designation: 課長
+    start: 2024年7月 
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.   
+    responsibilities:
+    - "合約起草與審核：起草及審核各類合約，包括保密協議、晶片開發合約、軟體及智慧財產授權合約及一般行政合約。"
+    - "法規遵循與股務事務：確保公司營運符合商業及投資相關法   規；協調董事會及股東會議事務；處理公司登記及法規申報。"
+    - "國際稅務策略：進行跨境稅務研究，透過合法節稅及避稅策略，優化全球晶片智慧財產採購成本。"
+    - "出口管制與貿易合規：分析全球進出口法規，確保晶片開發及國際銷售營運的合規性。"
+    - "海外子公司設立（日本及美國）：管理法律及營運事務，包括稅務、薪資、401(k)、保險及H-1B簽證申請，支援國際團隊運作。"
+    - "晶片開發專案協調：支援次世代晶片專案從規劃到採購階段；主導政府補助計畫申請及報告。"
+    - "協助公司上市前規劃：制定員工持股計畫、股票信託結構、投資人引進及櫃買上市準備工作。"
+    - "商業爭議解決與對外談判：主導商業爭議解決及與外部夥伴的策略性談判。"  
+
+  - designation: 管理師
+    start: 2023年6月
+    end: 2024年6月
+    responsibilities: 
+
+- company: 
+    name: 財政部財經資訊中心
+    url: "https://www.fic.gov.tw"
+    location: 台灣台北 
+    # logo: /images/experiences/company2.png
+    # darkLogo: /images/experiences/company2-dark.png #(optional), Can optionally show a different logo for dark theme
+    # company overview
+    overview:  
+  positions:
+  - designation: 研究助理
+    start: 2022年6月
+    end: 2022年12月
+    responsibilities: 
+    - "分析財政部財經資訊中心之個人及企業所得稅申報資料、海關進出口資料、勞保投保資料，以評估中美貿易戰對臺灣中小企業出口業務之影響。"
+
+- company:  
+    name: 中華經濟研究院
+    url: "https://www.cier.edu.tw"
+    location: 台灣台北
+    overview: 
+  positions:
+  - designation: 計畫助理
+    start: 2021年3月
+    end: 2021年8月
+    responsibilities:
+    - "協助研究團隊進行經濟數據收集與分析，支援各項經濟研究專案的資料整理與報告撰寫工作。"
+    - "參與經濟政策討論會議，提供研究見解並協助準備會議資料。"
