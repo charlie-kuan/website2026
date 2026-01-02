@@ -14,10 +14,10 @@ languages:
     title: "English"
     languageName: English
     weight: 1
-  zh:
-    languageCode: zh
+  cn:
+    languageCode: zh-tw
     title: "中文"
-    languageName: 中文  
+    languageName: Chinese 
     weight: 2
 
 defaultContentLanguage: en
@@ -39,6 +39,15 @@ outputs:
     - HTML
     - RSS
     - JSON
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  term:
+    - HTML
+    - RSS
 
 # Enable global emoji support
 enableEmoji: false
