@@ -8,6 +8,9 @@ baseURL: https://home.charlie-cheng.cc
 languageCode: en-us
 title: "Charlie's Blog"
 
+disableKinds:
+- sitemap
+
 languages:
   en:
     languageCode: en
