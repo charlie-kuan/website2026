@@ -11,6 +11,11 @@ title: "Charlie's Blog"
 disableKinds:
 - sitemap
 
+imaging:
+  quality: 90
+  resampleFilter: "Lanczos"
+  hint: "picture"
+
 languages:
   en:
     languageCode: en
@@ -57,7 +62,8 @@ enableEmoji: false
 params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/charlie-kuan/website2026
-  background: "images/ESKP7404.JPG"
+  background: "images/tpe.jpg"
+  darkbackground: "images/m8m20stacked.jpg"
   features:
     # Enable portfolio section
     portfolio:

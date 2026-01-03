@@ -10,7 +10,7 @@ section:
 
 achievements:
 - title: 國立臺灣大學天文社社長
-  # image: images/sections/achievements/presenter.jpg
+  image: images/ntuast_all.jpg
   summary: 領導團隊運作，管理超過100名成員的社團。學習天文學、天文攝影及一般天文知識。組織並帶領多次觀測活動，培養協調與領導能力。
   url: https://www.facebook.com/ntuast/
 
@@ -29,6 +29,7 @@ achievements:
 - title: 綠能產業金融人才培育計畫 （資策會科技法律研究所）
   # image: images/sections/achievements/green-energy.jpg
   summary: 完成由資策會科技法律研究所舉辦的綠能產業金融人才培育計畫。
+
 - title: 生物多樣性導論課程天文助教
-  # image: images/sections/achievements/teaching-assistant.jpg
+  image: images/astro_ta.png
   summary: 擔任生物多樣性導論課程的天文助教，負責講授天文相關的主題。 

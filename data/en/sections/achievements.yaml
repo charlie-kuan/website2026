@@ -10,7 +10,7 @@ section:
 
 achievements:
 - title: President, Astronomy Club, National Taiwan University
-  # image: images/sections/achievements/presenter.jpg
+  image: images/ntuast_all.jpg
   summary: Led team operations, managing a club of over 100 members. Studied astronomy, astrophotography, general astronomy knowledge. Organized and led multiple observation events, learning coordination and leadership skills.
   url: https://www.facebook.com/ntuast/
 
@@ -31,5 +31,5 @@ achievements:
   summary: Completed a program focused on financial talent development in the green energy industry, organized by the Institute for Information Industry's Technology Law Institute.
 
 - title: Astronomy Teaching Assistant for the Introduction to Biodiversity course
-  # image: images/sections/achievements/teaching-assistant.jpg
+  image: images/astro_ta.png
   summary: Served as a teaching assistant for the Introduction to Biodiversity course, assisting in astronomy-related topics and supporting students' learning experiences.
